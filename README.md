@@ -1,2 +1,2 @@
-# Com.Prog1-Hello-World
+# Com.Prog1-Hello World
 C++ Application
